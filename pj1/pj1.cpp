@@ -4,6 +4,6 @@
 
 int main()
 {
-    std::cout << "Hello World!   ---FROM WS1 ---2.0\n";
+    std::cout << "Hello World!   FROM  WS2  \n";
 }
 
