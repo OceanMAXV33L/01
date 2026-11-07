@@ -4,6 +4,6 @@
 
 int main()
 {
-    std::cout << "Hello World!   FROM  WS2  \n";
+    std::cout << "Hello World!   FROM  feature - hello \n";
 }
 
